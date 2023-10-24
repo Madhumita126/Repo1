@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 78E3-A65E
+
+ Directory of C:\Users\DELL\OneDrive\Desktop\Javaproject
+
+24-10-2023  16:43    <DIR>          .
+24-10-2023  14:50    <DIR>          ..
+24-10-2023  15:07               900 Hello.class
+24-10-2023  14:56               151 Hello.java
+24-10-2023  16:43                 0 test.txt
+               3 File(s)          1,051 bytes
+               2 Dir(s)  29,010,620,416 bytes free
