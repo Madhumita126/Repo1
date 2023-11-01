@@ -11,5 +11,4 @@ public class Hello
 }
 
 
-  git config --global user.email "madhumitakumbhar7572@gmail.com"
-git config --global user.name "Madhumita"
+  
